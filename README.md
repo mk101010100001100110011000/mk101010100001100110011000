@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mk101010100001100110011000
+- 👀 I’m interested in Websites (PHP, Js, HTML, CSS, ...), Programming (C++, Python), Bitmap graphics.
